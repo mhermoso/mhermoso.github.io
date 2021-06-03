@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miguel Hermoso"
+title                    : "ebiconsulting"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Miguel Hermoso"
@@ -97,16 +97,16 @@ analytics:
 author:
   name             : "Miguel Hermoso"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "🧬Human 🔭Father^3  🙋‍♂️Husband to Isis Fire Goddess @lavidahermoso 🧟‍♂️ Multidimensional Shaman 🧑‍🚀(he/him) 🌱#sustainability 🧘🤖#robotics #easeofliving"
+  bio              : "🧬Human 🔭Father^3  🙋‍♂️Husband to Isis Fire Goddess @lavidahermoso 🧟‍♂️ Multidimensional Shaman 🧑‍🚀(he/him) 🌱#sustainability 🧘🤖#automation #easeofliving"
   location         : "JV2P+5V Anton Valley"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:miguel@ebiconsulting.biz"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ebiconsulting.biz"
+    #- label: "Website"
+     # icon: "fas fa-fw fa-link"
+     # url: "https://ebiconsulting.biz"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mhermoso"
