@@ -1,5 +1,5 @@
 ---
-title:  "This is my Genesis Code"
+title:  "This is my Genesis Post"
 search: True
 categories: 
   - Genesis
