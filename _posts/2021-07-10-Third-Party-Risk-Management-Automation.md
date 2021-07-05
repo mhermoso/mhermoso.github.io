@@ -9,6 +9,9 @@ categories:
   - Risk Management
   - Automation
   - Risk
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 # Third-Party Risk Management Automation Why❓
