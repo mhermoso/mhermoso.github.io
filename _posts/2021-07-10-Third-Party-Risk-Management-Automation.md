@@ -1,6 +1,8 @@
 ---
 excerpt: "Start Automation Third Party Risk."
-author_profile: false
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 title:  "Third-Party Risk Management Automation"
 search: True
 categories: 
@@ -8,9 +10,7 @@ categories:
   - Risk Management
   - Automation
   - Risk
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+
 ---
 
 # Third-Party Risk Management Automation Why❓
