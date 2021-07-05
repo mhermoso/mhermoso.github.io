@@ -11,7 +11,7 @@ categories:
   - Risk
 toc: true
 toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_icon: "cog" classes: wide
 ---
 
 # Third-Party Risk Management Automation Why❓
