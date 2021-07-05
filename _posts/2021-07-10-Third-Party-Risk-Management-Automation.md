@@ -1,8 +1,9 @@
 ---
 excerpt: "Start Automation Third Party Risk."
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Audit Plan"
 toc_icon: "cog"
+toc_sticky: true
 title:  "Third-Party Risk Management Automation"
 search: True
 categories: 
