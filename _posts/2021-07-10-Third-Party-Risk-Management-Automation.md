@@ -1,4 +1,6 @@
 ---
+excerpt: "Start Automation Third Party Risk."
+author_profile: false
 title:  "Third-Party Risk Management Automation"
 search: True
 categories: 
