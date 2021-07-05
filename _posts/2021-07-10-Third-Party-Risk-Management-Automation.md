@@ -1,17 +1,17 @@
 ---
+title:  "Third-Party Risk Management Automation"
 excerpt: "Start Automation Third Party Risk."
 toc: true
 toc_label: "Audit Plan"
-toc_icon: "cog"
+toc_icon: "shoe-prints"
 toc_sticky: true
-title:  "Third-Party Risk Management Automation"
 search: True
+classes: wide
 categories: 
   - Third-Party
   - Risk Management
   - Automation
   - Risk
-
 ---
 
 # Third-Party Risk Management Automation Why❓
