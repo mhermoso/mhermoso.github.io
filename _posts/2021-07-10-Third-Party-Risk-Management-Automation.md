@@ -1,7 +1,6 @@
 ---
 title:  "Third-Party Risk Management Automation"
 excerpt: "Start Automation Third Party Risk."
-layout: posts
 toc: true
 toc_label: "Audit Plan"
 toc_icon: "shoe-prints"
