@@ -101,7 +101,7 @@ author:
   email            :
   links:
     - label: "location"
-      icon: "far fa-map-marked-alt"
+      icon: "fas fa-map-marker-alt"
       url: "https://goo.gl/maps/Mcc9kRp6Bzjwfq3S9"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
