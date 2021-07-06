@@ -2,3 +2,12 @@
 main:
   - title: "Posts"
     url: /year-archive/
+  - title: "About"
+    url: /About/
+  - title: "Sitemap"
+    url: /sitemap/  
+  - title: "Sitemap"
+    url: /sitemap/
+  - title: "Search"
+    url: /search/
+    
