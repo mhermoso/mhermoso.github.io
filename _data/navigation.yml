@@ -6,8 +6,6 @@ main:
     url: /About/
   - title: "Sitemap"
     url: /sitemap/  
-  - title: "Sitemap"
-    url: /sitemap/
   - title: "Search"
     url: /search/
     
