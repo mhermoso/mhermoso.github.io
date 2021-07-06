@@ -98,7 +98,8 @@ author:
   name             : "Miguel Hermoso"
   avatar           : "/assets/images/Miguel_Avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "🧬Human 🔭Father^3  🙋‍♂️Husband to Isis Fire Goddess @lavidahermoso 🧟‍♂️ Multidimensional Shaman 🧑‍🚀(he/him) 🌱#sustainability 🧘🤖#automation #easeofliving"
-  location         : "JV2P+5V Anton Valley"
+  location         : "JV2P+5V Anton Valley" 
+  url: "https://goo.gl/maps/Mcc9kRp6Bzjwfq3S9"
   email            :
   links:
     - label: "Email"
