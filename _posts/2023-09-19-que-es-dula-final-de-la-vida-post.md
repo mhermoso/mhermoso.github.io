@@ -55,7 +55,10 @@ Una **doula al final de la vida** es una persona entrenada y dedicada a brindar 
 Las doulas al final de la vida desempeñan un papel invaluable en el apoyo a individuos y familias durante uno de los ![image-left](/assets/images/eye-protection.gif){: .align-left} momentos más sensibles de la vida. Su presencia y cuidado contribuyen a una experiencia de final de vida más compasiva y significativa para todos los involucrados.
 
 Estos términos son utilizados para describir a profesionales que ofrecen apoyo durante el proceso de final de vida.
-![image-left](/assets/images/eye-protection.gif){: .align-right}
+
+![end-of-life-doula.gif](/assets/images/end-of-life-doula.gif){: .align-right}
+
+
 
 ### Otros Nombres
 
