@@ -11,6 +11,7 @@ toc_icon: "heart"
 header:
   teaser: "assets/images/MH - EOLD - LOGO.png"
 layout: single
+comments: true
 ---
 
 ![Logo](/assets/images/MH - EOLD - LOGO - Animated.gif){: .align-center}
